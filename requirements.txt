@@ -1,0 +1,5 @@
+streamlit
+paho-mqtt>=2.0
+streamlit-autorefresh
+streamlit-mic-recorder
+pandas
