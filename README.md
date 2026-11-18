@@ -1,4 +1,3 @@
-# Riego-inteligente
 # Sistema de riego inteligente de plantas
 
 Proyecto final de Interfaces Multimodales (Diseño Interactivo, Universidad EAFIT).
